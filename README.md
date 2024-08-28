@@ -1,1 +1,1 @@
-# Agile Data Analyst Project
+# Stroke Prediction Project
